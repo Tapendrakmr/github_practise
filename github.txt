@@ -1,0 +1,1 @@
+To add local repo with exist global repo=>git remote add origin https://github.com/Tapendrakmr/github_practise.git 
