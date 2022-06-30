@@ -1,1 +1,5 @@
-To add local repo with exist global repo=>git remote add origin https://github.com/Tapendrakmr/github_practise.git 
+To add local repo with exist global repo=>git remote add origin https://github.com/Tapendrakmr/github_practise.git
+Get status of local repo with exist global repo=>git status
+The git add command moves changes from the working directory to the Git staging area=git add
+The git commit takes the staged snapshot and commits it to the project history.
+The git pull command merges the file from your remote repository  into your local repository with a single command.=git pull orign
