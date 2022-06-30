@@ -7,3 +7,10 @@ The git pull command merges the file from your remote repository  into your loca
 BRANCH =[A branch represents an independent line of development for your repository]
 
 To create a new branch=git branch branch-name
+Switch to a new branch = git checkout future-plans 
+
+FAST FORWARD MERGE 
+
+Return to main branch and then merge extra branch into them=
+=>git checkout main 
+=>git merge future-plans
